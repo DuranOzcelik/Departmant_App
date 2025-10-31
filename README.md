@@ -2,7 +2,7 @@
 
 This project is a mobile application prototype built with Flutter, focusing on clean UI/UX design, modular architecture, and secure local authentication flows.
 
-**Author:** Duran Özçelik
+
 
 ---
 
@@ -74,5 +74,8 @@ The main application features a tabbed interface providing essential department 
 
 > **Note:** The project was submitted after running `flutter clean` to minimize repository file size.
 
+
+### Created by: Duran Özçelik
 ---
+
 
